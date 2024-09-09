@@ -1,0 +1,34 @@
+h1 {
+  color: rgb(77, 1, 13);
+}
+
+h2 {
+  color: rgb(100, 1, 22);
+  text-decoration: underline;
+}
+li {
+  font-family: "Courier New", Courier, monospace;
+}
+
+a {
+  color: rgb(23, 124, 219);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: blue;
+}
+html {
+  background-image: url(https://garden.spoonflower.com/c/12145531/p/f/m/GGQBbeVzOIXawzMG32TRRdJxIPfvWuUKF-PVjmxGs5TATkzJopIaOILwcg/Large%20Scale%20Peanut%20Butter%20and%20Jelly%20PB%26J%20Sandwiches%20Purple%20Grape%20on%20Navy.jpg);
+}
+body {
+  background-color: #ffffff;
+  width: 500px;
+  margin: 20px auto;
+  padding: 15px 20px;
+  border: 5px solid black;
+  border-radius: 10px;
+}
+p {
+  font-weight: bold;
+}
